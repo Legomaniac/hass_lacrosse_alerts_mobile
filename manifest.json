@@ -1,6 +1,6 @@
 {
-  "domain": "https://github.com/Legomaniac",
-  "name": "lacrosse_alerts_mobile",
+  "domain": "lacrosse_alerts_mobile",
+  "name": "Lacrosse Alerts Mobile",
   "documentation": "https://github.com/Legomaniac/hass_lacrosse_alerts_mobile/blob/master/README.md",
   "dependencies": [],
   "codeowners": ["Legomaniac"],
